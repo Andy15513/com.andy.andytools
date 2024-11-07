@@ -1,0 +1,13 @@
+{
+  "name": "com.andy.andytools",
+  "version": "1.0.0",
+  "displayName": "Andy toolkits",
+  "description": "Switch Scenes and QuitGame",
+  "unity": "6000.0",
+
+  "author": {
+    "name": "Andy",
+    "email": "voyager382@gmail.com",
+    "url": ""
+  }
+}
